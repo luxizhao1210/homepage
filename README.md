@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm [Your Name], a software developer with a passion for building innovative solutions. I have experience in a variety of programming languages and technologies, and I'm always eager to learn more.
+Hi there! I'm LUXI ZHAO, a software developer with a passion for building innovative solutions. I have experience in a variety of programming languages and technologies, and I'm always eager to learn more.
 
 ## Skills
 
